@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-07T21:57:54 IST" name="Suite" finished-at="2023-05-07T21:58:19 IST" duration-ms="25043">
+    <groups>
+    </groups>
+    <test started-at="2023-05-07T21:57:54 IST" name="Test" finished-at="2023-05-07T21:58:19 IST" duration-ms="25043">
+      <class name="TestCases.Githubrepo">
+        <test-method signature="CreateaRepositoryfortheAuthenticatedUser()[pri:0, instance:TestCases.Githubrepo@10aa41f2]" started-at="2023-05-07T21:57:54 IST" name="CreateaRepositoryfortheAuthenticatedUser" finished-at="2023-05-07T21:57:58 IST" duration-ms="4016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateaRepositoryfortheAuthenticatedUser -->
+        <test-method signature="UpdateaRepository()[pri:1, instance:TestCases.Githubrepo@10aa41f2]" started-at="2023-05-07T21:57:58 IST" name="UpdateaRepository" finished-at="2023-05-07T21:58:00 IST" duration-ms="1273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateaRepository -->
+        <test-method signature="GetaRepository()[pri:2, instance:TestCases.Githubrepo@10aa41f2]" started-at="2023-05-07T21:58:00 IST" name="GetaRepository" finished-at="2023-05-07T21:58:00 IST" duration-ms="959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetaRepository -->
+        <test-method signature="CreateOrUpdateFileContents()[pri:3, instance:TestCases.Githubrepo@10aa41f2]" started-at="2023-05-07T21:58:00 IST" name="CreateOrUpdateFileContents" finished-at="2023-05-07T21:58:02 IST" duration-ms="1114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateOrUpdateFileContents -->
+        <test-method signature="CreateaFork()[pri:4, instance:TestCases.Githubrepo@10aa41f2]" started-at="2023-05-07T21:58:02 IST" name="CreateaFork" finished-at="2023-05-07T21:58:04 IST" duration-ms="1916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateaFork -->
+        <test-method signature="ListForks()[pri:5, instance:TestCases.Githubrepo@10aa41f2]" started-at="2023-05-07T21:58:04 IST" name="ListForks" finished-at="2023-05-07T21:58:04 IST" duration-ms="952" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ListForks -->
+        <test-method signature="ListRepositoriesForaUser()[pri:6, instance:TestCases.Githubrepo@10aa41f2]" started-at="2023-05-07T21:58:04 IST" name="ListRepositoriesForaUser" finished-at="2023-05-07T21:58:06 IST" duration-ms="1021" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ListRepositoriesForaUser -->
+        <test-method signature="ListRepositoryLanguages()[pri:7, instance:TestCases.Githubrepo@10aa41f2]" started-at="2023-05-07T21:58:06 IST" name="ListRepositoryLanguages" finished-at="2023-05-07T21:58:06 IST" duration-ms="918" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ListRepositoryLanguages -->
+        <test-method signature="ListPublicRepositories()[pri:8, instance:TestCases.Githubrepo@10aa41f2]" started-at="2023-05-07T21:58:06 IST" name="ListPublicRepositories" finished-at="2023-05-07T21:58:08 IST" duration-ms="1649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ListPublicRepositories -->
+        <test-method signature="DeleteaFile()[pri:9, instance:TestCases.Githubrepo@10aa41f2]" started-at="2023-05-07T21:58:08 IST" name="DeleteaFile" finished-at="2023-05-07T21:58:09 IST" duration-ms="1214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteaFile -->
+        <test-method signature="ListRepositoryTags()[pri:10, instance:TestCases.Githubrepo@10aa41f2]" started-at="2023-05-07T21:58:09 IST" name="ListRepositoryTags" finished-at="2023-05-07T21:58:10 IST" duration-ms="822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ListRepositoryTags -->
+        <test-method signature="CreateAnAutolinkReferenceforaRepository()[pri:11, instance:TestCases.Githubrepo@10aa41f2]" started-at="2023-05-07T21:58:10 IST" name="CreateAnAutolinkReferenceforaRepository" finished-at="2023-05-07T21:58:11 IST" duration-ms="935" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateAnAutolinkReferenceforaRepository -->
+        <test-method signature="ReplaceAllRepositoryTopics()[pri:12, instance:TestCases.Githubrepo@10aa41f2]" started-at="2023-05-07T21:58:11 IST" name="ReplaceAllRepositoryTopics" finished-at="2023-05-07T21:58:12 IST" duration-ms="1412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReplaceAllRepositoryTopics -->
+        <test-method signature="GetAllRepositoryTopics()[pri:13, instance:TestCases.Githubrepo@10aa41f2]" started-at="2023-05-07T21:58:12 IST" name="GetAllRepositoryTopics" finished-at="2023-05-07T21:58:13 IST" duration-ms="918" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllRepositoryTopics -->
+        <test-method signature="GetAnAutolinkReferenceofaRepository()[pri:14, instance:TestCases.Githubrepo@10aa41f2]" started-at="2023-05-07T21:58:13 IST" name="GetAnAutolinkReferenceofaRepository" finished-at="2023-05-07T21:58:16 IST" duration-ms="2149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAnAutolinkReferenceofaRepository -->
+        <test-method signature="DeleteAnAutolinkReferenceFromaRepository()[pri:15, instance:TestCases.Githubrepo@10aa41f2]" started-at="2023-05-07T21:58:16 IST" name="DeleteAnAutolinkReferenceFromaRepository" finished-at="2023-05-07T21:58:17 IST" duration-ms="1022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteAnAutolinkReferenceFromaRepository -->
+        <test-method signature="GetaRepository2()[pri:16, instance:TestCases.Githubrepo@10aa41f2]" started-at="2023-05-07T21:58:17 IST" name="GetaRepository2" finished-at="2023-05-07T21:58:17 IST" duration-ms="853" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetaRepository2 -->
+        <test-method signature="DeleteaRepository()[pri:17, instance:TestCases.Githubrepo@10aa41f2]" started-at="2023-05-07T21:58:17 IST" name="DeleteaRepository" finished-at="2023-05-07T21:58:19 IST" duration-ms="1805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteaRepository -->
+      </class> <!-- TestCases.Githubrepo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
